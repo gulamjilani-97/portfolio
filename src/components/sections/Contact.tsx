@@ -111,7 +111,7 @@ const Contact: React.FC = () => {
               <h4 className="text-lg font-medium text-gray-900 dark:text-white mb-4">Follow Me</h4>
               <div className="flex space-x-4">
                 <a 
-                  href="https://github.com/yourusername" 
+                  href="https://github.com/gulamjilani-97" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="p-2 rounded-full bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-primary-100 dark:hover:bg-primary-900 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"

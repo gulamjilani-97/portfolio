@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
-            <span className="text-xl font-bold text-primary-600 dark:text-primary-400">YourName</span>
+            <span className="text-xl font-bold text-primary-600 dark:text-primary-400">Shaikh Gulamjilani</span>
             <p className="mt-2 text-gray-600 dark:text-gray-400 max-w-md">
               Full Stack Developer specializing in building exceptional digital experiences.
             </p>
@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
           
           <div className="flex space-x-4">
             <a 
-              href="https://github.com/yourusername" 
+              href="https://github.com/gulamjilani-97" 
               target="_blank" 
               rel="noopener noreferrer"
               className="p-2 rounded-full bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-primary-100 dark:hover:bg-primary-900 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
@@ -44,7 +44,7 @@ const Footer: React.FC = () => {
               <Twitter size={20} />
             </a>
             <a 
-              href="mailto:your.email@example.com" 
+              href="mailto:your.shaikhgulamjilani02@gmail.com" 
               className="p-2 rounded-full bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-primary-100 dark:hover:bg-primary-900 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
               aria-label="Email"
             >

@@ -66,7 +66,7 @@ const Hero: React.FC = () => {
             transition={{ delay: 0.7, duration: 0.8 }}
           >
             <a 
-              href="https://github.com/yourusername" 
+              href="https://github.com/gulamjilani-97" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-black hover:text-black/80 transition-colors"

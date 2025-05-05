@@ -63,7 +63,6 @@ const About: React.FC = () => {
                 "UI/UX Design",
                 "Database Design",
                 "API Development",
-                "Mobile-First Approach",
                 "Performance Optimization",
                 "Responsive Design"
               ].map((item, index) => (
