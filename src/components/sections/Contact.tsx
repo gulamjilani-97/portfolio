@@ -36,7 +36,7 @@ const Contact: React.FC = () => {
   };
   
   return (
-    <section id="contact" className="py-20 bg-white dark:bg-gray-900">
+    <section id="contact" className="py-20 bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-700">
       <div className="container mx-auto px-4">
         <motion.div
           className="max-w-3xl mx-auto text-center mb-16"
