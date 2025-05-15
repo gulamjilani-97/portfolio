@@ -33,7 +33,7 @@ const Hero: React.FC = () => {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.4, duration: 0.8 }}
           >
-            Full Stack Developer
+            Computer Graduate
           </motion.h2>
           
           <motion.p 
@@ -75,7 +75,7 @@ const Hero: React.FC = () => {
               <Github size={24} />
             </a>
             <a 
-              href="https://linkedin.com/in/yourusername" 
+              href="https://www.linkedin.com/in/gulamjilani-shaikh-952538362/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-black dark:text-white hover:text-black/80 dark:hover:text-white/80 transition-colors"
