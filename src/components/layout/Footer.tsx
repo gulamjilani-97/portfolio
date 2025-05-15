@@ -1,5 +1,5 @@
 import React from 'react';
-import { Github, Linkedin, Mail, Twitter } from 'lucide-react';
+import { Github, Linkedin } from 'lucide-react';
 
 const Footer: React.FC = () => {
   const currentYear = new Date().getFullYear();
@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
           <div className="mb-6 md:mb-0">
             <span className="text-xl font-bold text-primary-600 dark:text-primary-400">Shaikh Gulamjilani</span>
             <p className="mt-2 text-gray-600 dark:text-gray-400 max-w-md">
-              Full Stack Developer specializing in building exceptional digital experiences.
+              Computer Graduate passionate about technology and software development.
             </p>
           </div>
           
@@ -26,29 +26,13 @@ const Footer: React.FC = () => {
               <Github size={20} />
             </a>
             <a 
-              href="https://www.linkedin.com/in/gulamjilani-shaikh-952538362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" 
+              href="https://www.linkedin.com/in/gulamjilani-shaikh-952538362/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="p-2 rounded-full bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-primary-100 dark:hover:bg-primary-900 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
               aria-label="LinkedIn"
             >
               <Linkedin size={20} />
-            </a>
-            <a 
-              href="https://twitter.com/yourusername" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="p-2 rounded-full bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-primary-100 dark:hover:bg-primary-900 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
-              aria-label="Twitter"
-            >
-              <Twitter size={20} />
-            </a>
-            <a 
-              href="mailto:your.shaikhgulamjilani02@gmail.com" 
-              className="p-2 rounded-full bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-primary-100 dark:hover:bg-primary-900 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
-              aria-label="Email"
-            >
-              <Mail size={20} />
             </a>
           </div>
         </div>

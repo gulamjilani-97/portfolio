@@ -83,10 +83,10 @@ const Contact: React.FC = () => {
                 <div className="ml-4">
                   <h4 className="text-lg font-medium text-gray-900 dark:text-white">Email</h4>
                   <a 
-                    href="mailto:shaikgulamjilani02@gmail.com"
+                    href="mailto:shaikhgulamjilani02@gmail.com"
                     className="text-gray-700 dark:text-gray-300 mt-1 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
                   >
-                    shaikgulamjilani02@gmail.com
+                    shaikhgulamjilani02@gmail.com
                   </a>
                 </div>
               </div>
